@@ -1,3 +1,5 @@
+# Web 2D Fighting Game
+
 ![2D Fighting Game](/preview/game-preview.png)
 
 ## Installation
